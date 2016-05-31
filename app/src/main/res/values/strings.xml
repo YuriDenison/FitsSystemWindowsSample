@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FitsSystemWindowsTest</string>
+    <string name="child">Child Fragment</string>
+    <string name="root">Root Fragment</string>
+    <string name="button">Open Child</string>
+    <string name="back_to_root">Back To Root</string>
+</resources>
